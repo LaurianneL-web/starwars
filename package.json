@@ -1,0 +1,23 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "TP1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurianneL-web/starwars.git"
+  },
+  "author": "LaurianneL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurianneL-web/starwars/issues"
+  },
+  "homepage": "https://github.com/LaurianneL-web/starwars#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "less": "^3.9.0"
+  }
+}
